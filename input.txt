@@ -1,10 +1,14 @@
 void main()
 {
-	int var = -6;
+	int var = 0;
 	int varhex = 0xAFFF;
-	long long varhexlong = 0x123ABCDLL;
-	long vars = 1234L;
-	int n = 6;
+	long varhexlong = 0x123ABCDL;
+	long long var1 = 1234LL;
+	long var2 = 1234L;
+	int n1 = 6;
+	int n2 = 7L;
+	int n3 = 8LE;
+	int n4 = 9F;
 
 	if (var)
 	{
