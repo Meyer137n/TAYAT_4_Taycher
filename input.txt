@@ -1,0 +1,34 @@
+void main()
+{
+	int var = -6;
+	int varhex = 0xAFFF;
+	long long varhexlong = 0x123ABCDLL;
+	long vars = 1234L;
+	int n = 6;
+
+	if (var)
+	{
+		function();
+		;;;
+	}
+
+	var = 5;
+
+	for(int i=0; i < 6; i)
+	{
+		i = i + 1;
+	}
+}
+
+void function()
+{
+	short a1 = 1;
+	long c2 = 2;
+	// explaining division!
+	int ac12 = c2 / a1;
+	{
+	{
+	}
+	}
+	return ac12;
+}
